@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/dwHou">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dwHou&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/dwHou">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwHou&layout=compact" />
+</a>
+
 
 <!--
 **dwHou/dwHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
