@@ -1,79 +1,24 @@
-<div align="center">
+# 💫 About Me:
+🔭 I’m currently working on digital humans and AIGC.<br>🌱 I’m interested in pan-AI and its business solutions.<br>💬 Ask me about living across different regions of China — culture, lifestyle, and local experiences.
 
-# Devon Hou
 
-[![Website](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://dwhou.github.io/about.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/德旺-侯-438656131)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devonn.hou@zoom.us)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/德旺-侯-438656131) 
 
-</div>
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dwHou&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dwHou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dwHou&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dwHou&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<div align="center">
-
-## 📊 Metrics
-
-![Metrics](https://metrics.lecoq.io/dwHou?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
-
-</div>
-
----
-
-<div align="center">
-
-## 💻 Languages
-
-![Languages](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14)
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dwHou&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-
-## 🏆 Achievements
-
-![Achievements](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0)
-
-</div>
-
----
-
-<div align="center">
-
-## 📅 Activity
-
-![Activity](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&isocalendar=1&isocalendar.duration=full-year)
-
-![Recent Activity](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&activity=1&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all)
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Notable Repositories
-
-![Notable](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit)
-
-</div>
-
----
-
-<div align="center">
-
-## 🕐 Code Habits
-
-![Habits](https://metrics.lecoq.io/dwHou?template=classic&base=&config.timezone=Asia%2FShanghai&habits=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dwHou&color=00D9FF&style=flat-square&label=VIEWS)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
